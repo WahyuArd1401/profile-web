@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+header{
+    width: 100%;
+    top: 0;
+    left: 0;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 100px;
+    display: flex;
+    z-index: 99;
+}
+
+header .logo{
+    width: 60px;
+    height: 60px;
+}
+
+.navigation a{
+    position: relative;
+    text-decoration: none;
+    font-size: 1.1em;
+    padding: 8px 10px;
+    margin-left: 10px;
+    color: #06283D;
+    font-weight: 500px;
+    border-radius: 10px;
+}
+
+.navigation .btn-contact{
+    padding: 5px 12px;
+    margin-left: 100px;
+    outline: none;
+    color: white;
+    background: #06283D;
+    border-radius: 10px;
+    font-size: 1.1em;
+    font-weight: 500px;
+}
+
+.navigation a:hover{
+    background-color: #06283D;
+    color: white;
+    transition: all 0.3s ease-in-out;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px 100px;
+    height: 400px;
+}
+
+.my-self {
+    width: 600px;
+    color: #06283D;
+    margin: auto 50px;
+}
+
+.my-self h1{
+    font-size: 40px;
+}
+
+.my-self span{
+    color: #2b9d9d;
+}
+
+.my-image img{
+    width: 250px;
+    position:absolute;
+    right: 250px;
+    top: 10px;
+}
