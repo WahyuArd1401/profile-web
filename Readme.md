@@ -7,4 +7,6 @@ Layanan yang digunakan :
 
 Link url : https://dicoding-project-386302.et.r.appspot.com 
 
-Jika tidak bisa, maka project sudah nonaktif pada layanan cloud
+Jika tidak bisa, maka project sudah nonaktif pada layanan cloud. Gunakan link dibawah ini.
+
+Link url github : https://wahyuard1401.github.io/profile-web/
